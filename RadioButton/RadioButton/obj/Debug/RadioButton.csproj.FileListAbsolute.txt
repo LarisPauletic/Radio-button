@@ -1,0 +1,10 @@
+C:\Users\Laris\source\repos\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\Laris\source\repos\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\Laris\source\repos\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\Laris\source\repos\RadioButton\RadioButton\obj\Debug\RadioButton.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\Laris\source\repos\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\Laris\source\repos\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\Laris\source\repos\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\Laris\source\repos\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
